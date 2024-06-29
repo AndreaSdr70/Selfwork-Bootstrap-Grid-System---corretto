@@ -1,0 +1,33 @@
+*{
+    font-family: "Roboto Condensed", sans-serif;
+
+}
+
+li{
+    list-style-type: none;
+    
+    
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+
+}
+
+nav{
+    background-color: #96f3d4;
+    height: 80px;
+
+    }
+
+.header-custom{
+    background-image: url(./media/food\ umbria.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.min-vh-100{
+    min-height: 100vh;
+}
